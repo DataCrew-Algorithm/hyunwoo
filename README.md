@@ -8,3 +8,4 @@
 - [week4](https://github.com/DataCrew-Algorithm/hyunwoo/tree/master/Baekjoon/week4)
 - [week5](https://github.com/DataCrew-Algorithm/hyunwoo/tree/master/Baekjoon/week5)
 - [week6](https://github.com/DataCrew-Algorithm/hyunwoo/tree/master/Baekjoon/week6)
+- [week7](https://github.com/DataCrew-Algorithm/hyunwoo/tree/master/Baekjoon/week7)
