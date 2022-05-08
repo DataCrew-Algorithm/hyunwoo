@@ -13,4 +13,5 @@
 ### LeetCode(리트코드)
 
 - [week1](https://github.com/DataCrew-Algorithm/hyunwoo/tree/master/Leet/week1)
+- [week2](https://github.com/DataCrew-Algorithm/hyunwoo/tree/master/Leet/week2)
 
