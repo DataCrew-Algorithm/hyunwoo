@@ -1,3 +1,5 @@
+# 68ms
+
 number = int(input())
 nums = [i+1 for i in range(number)]
 new_nums = []
