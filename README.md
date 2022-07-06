@@ -14,6 +14,9 @@
 - [week10](https://github.com/DataCrew-Algorithm/hyunwoo/tree/master/Baekjoon/week10)
 - [week11](https://github.com/DataCrew-Algorithm/hyunwoo/tree/master/Baekjoon/week11)
 - [week12](https://github.com/DataCrew-Algorithm/hyunwoo/tree/master/Baekjoon/week12)
+- [week13](https://github.com/DataCrew-Algorithm/hyunwoo/tree/master/Baekjoon/week13)
+- [week14](https://github.com/DataCrew-Algorithm/hyunwoo/tree/master/Baekjoon/week14)
+- [week15](https://github.com/DataCrew-Algorithm/hyunwoo/tree/master/Baekjoon/week15)
 
 ### LeetCode(리트코드)
 
